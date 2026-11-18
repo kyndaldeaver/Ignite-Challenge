@@ -1,4 +1,4 @@
-python -m pip install streamlit pandas
+pip install streamlit
 import streamlit as st
  
 st.title('Temperature Slide')
